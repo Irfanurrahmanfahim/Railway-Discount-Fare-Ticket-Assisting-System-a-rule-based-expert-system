@@ -36,7 +36,3 @@ This project aims to provide a **hands-on introduction to AI** by demonstrating:
 * Knowledge representation
 * Rule-based reasoning
 * Expert system development
-
----
-
-Feel free to modify this based on your specific implementation or add screenshots/examples. Let me know if you’d like a more detailed or professional version.
